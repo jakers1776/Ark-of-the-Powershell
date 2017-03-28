@@ -3,3 +3,6 @@ This is a collection of PowerShell scripts. I will be adding files I find useful
 
 ConnectToAnotherWorkstation.ps1
 --> This script asks for a computer you'd like to connect to on your domain. Then, after prompting you for credentials, if they are sufficient, it will connect you via PowerShell session with the said workstation. 
+
+RemoteDesktopConnection.ps1
+--> This script opens the Remote Desktop Connection client and allows you to enter the computer you'd like to connect to. 
