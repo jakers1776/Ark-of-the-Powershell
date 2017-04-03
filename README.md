@@ -12,3 +12,6 @@ Get-StockQuote.ps1
 
 RemoteDesktopConnection.ps1
 --> This script opens the Remote Desktop Connection client and allows you to enter the computer you'd like to connect to. 
+
+SeeProcesses.ps1 
+--> This script opens up the running processes in the Out-GridView, which is a nice table format. 
