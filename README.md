@@ -15,3 +15,6 @@ RemoteDesktopConnection.ps1
 
 SeeProcesses.ps1 
 --> This script opens up the running processes in the Out-GridView, which is a nice table format. 
+
+TurnOnRemoteRegistry
+--> This script enables the Remote Registry service and makes it automatically start. 
